@@ -1,16 +1,17 @@
+body {
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(109, 39, 239));
+  height: 100vh;
+}
 .logo {
   display: block;
   margin: auto;
   width: 50px;
   height: 50px;
 }
-body{
-    background-image: linear-gradient(rgb(255,255,255),rgb(109,39,239));
-    height: 100vh;
-}
+
 .container {
   max-width: 995px;
-border: 2px solid black;
+  border: 2px solid black;
   margin: auto;
   height: 60vh;
   padding: 33px;
@@ -33,22 +34,22 @@ border: 2px solid black;
   float: left;
   clear: both;
 }
-#send-container{
-    display: block;
-    margin: auto;
-text-align: center;
-max-width: 985px;
-width:100% ;
+#send-container {
+  display: block;
+  margin: auto;
+  text-align: center;
+  max-width: 985px;
+  width: 100%;
 }
-#massegeInp{
-    width: 92%;
-    border: 2px solid black;
-    border-radius: 6px;
-    height: 34px;
+#massegeInp {
+  width: 92%;
+  border: 2px solid black;
+  border-radius: 6px;
+  height: 34px;
 }
-.btn{
-    cursor: pointer;
-    border: 2px solid black;
-    border-radius: 6px;
-    height: 34px;
+.btn {
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 6px;
+  height: 34px;
 }
